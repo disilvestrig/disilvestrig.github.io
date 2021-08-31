@@ -1,0 +1,64 @@
+body {
+    position: relative; 
+  }
+
+#section1 {padding-top:3vh;padding-bottom:3vh;width:100vw;color: rgb(255, 255, 255); background-color:forestgreen}
+#section2 {padding-top:3vh;width:100vw;height:max-content;color: rgb(255, 255, 255); background-color:firebrick}
+
+ul {
+  list-style-type: square;
+  color: white;
+}
+
+h1 {
+  padding-top : 8vh
+}
+
+.table {
+  color : white
+}
+
+.ul {
+  padding-top : 3vh
+}
+
+h3 {
+  padding-top: 3.5vh;
+  padding-bottom:3.5vh
+}
+
+.page-link {
+  color : rgb(0, 0, 0);
+  background-color : firebrick;
+  border-color: rgb(0, 0, 0);
+}
+
+.page-link:hover {
+  color:firebrick;
+  border-color: firebrick;
+  background-color: black
+}
+
+button {
+  background-color : blue;
+  border-color: rgb(38, 0, 255);
+  color : white;
+}
+button:hover {
+  background-color: dodgerblue;
+}
+
+.form-control {
+  border-color: rgb(0, 0, 0);
+  border-width: 0.3vh;
+}
+
+.mark {
+  color: black;
+  font-size: 20px;
+}
+.form-control {
+  width : 20vw;
+  display: inline-block
+}
+

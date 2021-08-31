@@ -1,0 +1,45 @@
+body {
+    background-image : url(https://st.depositphotos.com/1273672/1695/v/950/depositphotos_16955653-stock-illustration-grunge-british-flag.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#titolo {
+    text-align : center;
+    color : rgb(41, 0, 80);
+    font-size : 7.5vw  ; 
+    padding-top: 20%;
+}
+#subtit {
+    text-align : center;
+    font-size : 3vw;
+    color :rgb(71, 0, 138)
+}
+#middle {
+    padding-top: 5%
+}
+
+a {
+  color :rgb(71, 0, 138)  
+}
+
+#accordion {
+    padding-top: 10%
+}
+
+.pagination {
+    padding-top: 10%;
+    
+}
+
+.page-link {
+    color : rgb(71, 0, 138)
+}
+.page-link:hover{
+    background-color: rgb(83, 0, 161);
+    color:rgb(255, 255, 255)
+}
+
+.card-link:hover {
+    color:rgb(83, 0, 161)
+}

@@ -1,0 +1,63 @@
+
+body {
+    position: relative; 
+  }
+
+#section1 {padding-top:3vh;padding-bottom:3vh;height:260vh;width:100vw;color: rgb(255, 255, 255); background-color: #0077ff;}
+#section2 {padding-top:1.5vh;height:max-content;width:100vw;color: rgb(255, 255, 255); background-color: #ff7300;}
+
+ul {
+  list-style-type: square;
+  color: white;
+}
+
+h1 {
+  padding-top : 8vh
+}
+
+.table {
+  color : white
+}
+
+.ul {
+  padding-top : 3vh
+}
+
+h3 {
+  padding-top: 3.5vh
+}
+
+.page-link {
+  color : rgb(0, 0, 0);
+  background-color : rgb(255, 123, 0);
+  border-color: rgb(0, 0, 0);
+}
+
+.page-link:hover {
+  color:rgb(255, 123, 0);
+  border-color: rgb(255, 123, 0);
+  background-color: black
+}
+
+button {
+  background-color : blue;
+  border-color: rgb(38, 0, 255);
+  color : white
+}
+button:hover {
+  background-color: dodgerblue;
+}
+
+.form-control {
+  border-color: rgb(0, 0, 0);
+  border-width: 0.3vh;
+}
+
+.mark {
+  color: black;
+  font-size: 20px;
+}
+.form-control {
+  width : 40vw;
+  display: inline-block
+}
